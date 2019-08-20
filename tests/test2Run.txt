@@ -1,0 +1,21 @@
+# instance | maxRouteCosts | maxTime(sec) | distribution | firstParam | secondParam | seed 
+Kelly01	650	10 geometric 0.1 0.6 34780
+Kelly02 900	10 geometric 0.1 0.6 34780
+Kelly03 1200 10 geometric 0.1 0.6 34780
+Kelly04 1600 10 geometric 0.1 0.6 34780
+Kelly05 1800 10 geometric 0.1 0.6 34780
+Kelly06 1500 10 geometric 0.1 0.6 34780
+Kelly07 1300 10 geometric 0.1 0.6 34780
+Kelly08 1200 10 geometric 0.1 0.6 34780
+Kelly09 999999 10 geometric 0.1 0.6 34780
+Kelly10 999999 10 geometric 0.1 0.6 34780
+Kelly11 999999 10 geometric 0.1 0.6 34780
+Kelly12 999999 10 geometric 0.1 0.6 34780
+Kelly13 999999 10 geometric 0.1 0.6 34780
+Kelly14 999999 10 geometric 0.1 0.6 34780
+Kelly15 999999 10 geometric 0.1 0.6 34780
+Kelly16 999999 10 geometric 0.1 0.6 34780
+Kelly17 999999 10 geometric 0.1 0.6 34780
+Kelly18 999999 10 geometric 0.1 0.6 34780
+Kelly19 999999 10 geometric 0.1 0.6 34780
+Kelly20 999999 10 geometric 0.1 0.6 34780

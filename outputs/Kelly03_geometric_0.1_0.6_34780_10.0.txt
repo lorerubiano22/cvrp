@@ -1,0 +1,45 @@
+CWS Sol
+------------------------
+
+Sol ID : 4064
+Sol costs: 12594.03002425836
+Sol time: 0.0103231
+# of routes in sol: 11
+List of routes (cost and nodes): 
+Route 1 Costs = 1198.6687345911685 Demand  = 790.0
+Route 2 Costs = 1199.0562820087962 Demand  = 780.0
+Route 3 Costs = 1197.85820732116 Demand  = 480.0
+Route 4 Costs = 1197.8580849493915 Demand  = 660.0
+Route 5 Costs = 1197.1600272050164 Demand  = 890.0
+Route 6 Costs = 746.6025435474627 Demand  = 750.0
+Route 7 Costs = 1197.8581583995347 Demand  = 450.0
+Route 8 Costs = 1107.6563358400467 Demand  = 890.0
+Route 9 Costs = 1199.0560654870746 Demand  = 840.0
+Route 10 Costs = 1197.8582002759115 Demand  = 570.0
+Route 11 Costs = 1154.3973846328752 Demand  = 900.0
+
+
+-------------------------
+
+RCWS Sol:
+
+-------------------------
+
+Sol ID : 4780
+Sol costs: 11973.300956492885
+Sol time: 8.7443038
+# of routes in sol: 11
+List of routes (cost and nodes): 
+Route 1 Costs = 851.8960496750134 Demand  = 640.0
+Route 2 Costs = 1197.8581964033483 Demand  = 680.0
+Route 3 Costs = 725.9908059724155 Demand  = 650.0
+Route 4 Costs = 1195.4621293852397 Demand  = 730.0
+Route 5 Costs = 1196.9226125472762 Demand  = 750.0
+Route 6 Costs = 1029.2375418515553 Demand  = 900.0
+Route 7 Costs = 1193.1505747984781 Demand  = 760.0
+Route 8 Costs = 1178.8535865577524 Demand  = 860.0
+Route 9 Costs = 1196.6599624728462 Demand  = 680.0
+Route 10 Costs = 1009.4112479345365 Demand  = 650.0
+Route 11 Costs = 1197.8582488945706 Demand  = 700.0
+
+
